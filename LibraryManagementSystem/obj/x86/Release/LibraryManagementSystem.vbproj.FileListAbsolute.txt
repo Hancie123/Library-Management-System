@@ -1,0 +1,80 @@
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\NH Library Management System.exe.config
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookIssueRecord_Staff.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookIssueRecord_Staff1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookIssueRecord_Staff2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookReturnRecord_Student.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookReturnRecord_Staff.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookReturnRecord_Student1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookReturnRecord_Staff1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookRecord3.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmJournalsMagzinesRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStaffsNoDuesRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentsNoDuesdRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmNoDues.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStaffCardRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentsCardRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmCards.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentListRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentListRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookIssueRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmProjectReport.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentList.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentsReport.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookIssueRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookIssueRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentRecord3.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStaffRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmProjectRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmProjectRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmNewsPaperRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmNewsPaperRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStaffRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmJournalsMagzinesRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmSupplierRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmYears.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookEntry.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookIssue.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmBookReturn.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmChangePassword.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmDepartment.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmCourse.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmJournalsAndMagzines.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmLoginDetails.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmNewsPaper.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmPasswordRecovery.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmProject.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmRegistration.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStaff.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudent.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.Frmlogin.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmMain.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmSplash.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmAbout.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStaffRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmStudentRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmSupplier.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.frmSystemInfo.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.Resources.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.vbproj.GenerateResource.Cache
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\NH Library Management System.exe.manifest
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\NH Library Management System.application
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\NH Library Management System.exe
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\NH Library Management System.pdb
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\NH Library Management System.xml
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\stdole.dll
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.TrustInfo.xml
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.exe.manifest
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.application
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.exe
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.xml
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.pdb
+G:\My Projects\NH Library Management System\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Release\NH Library Management System.exe.config
+G:\My Projects\NH Library Management System\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.exe
+G:\My Projects\NH Library Management System\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.xml
+G:\My Projects\NH Library Management System\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Release\NH Library Management System.pdb

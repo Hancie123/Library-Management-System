@@ -1,0 +1,977 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5E8AB0EE-6A82-459D-BD34-C3D3E3E22D1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LibraryManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>LibraryManagementSystem</RootNamespace>
+    <AssemblyName>NH Library Management System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\hp\Music\New folder\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NH Library Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NH Library Management System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>42342A43318B0C46C72987CBD11FE0A05A46FF63</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>LibraryManagementSystem_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookIssueRecord_Staff.Designer.vb">
+      <DependentUpon>BookIssueRecord_Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookIssueRecord_Staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookIssueRecord_Staff1.Designer.vb">
+      <DependentUpon>BookIssueRecord_Staff1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookIssueRecord_Staff1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookIssueRecord_Staff2.Designer.vb">
+      <DependentUpon>BookIssueRecord_Staff2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookIssueRecord_Staff2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookReturnRecord_Student.Designer.vb">
+      <DependentUpon>BookReturnRecord_Student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookReturnRecord_Student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookReturnRecord_Staff.Designer.vb">
+      <DependentUpon>BookReturnRecord_Staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookReturnRecord_Staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookReturnRecord_Student1.Designer.vb">
+      <DependentUpon>BookReturnRecord_Student1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookReturnRecord_Student1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookReturnRecord_Staff1.Designer.vb">
+      <DependentUpon>BookReturnRecord_Staff1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BookReturnRecord_Staff1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookRecord3.Designer.vb">
+      <DependentUpon>frmBookRecord3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookRecord3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookRecord2.Designer.vb">
+      <DependentUpon>frmBookRecord2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookRecord2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJournalsMagzinesRecord1.Designer.vb">
+      <DependentUpon>frmJournalsMagzinesRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJournalsMagzinesRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffsNoDuesRecord.Designer.vb">
+      <DependentUpon>frmStaffsNoDuesRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffsNoDuesRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentsNoDuesdRecord.Designer.vb">
+      <DependentUpon>frmStudentsNoDuesdRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentsNoDuesdRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNoDues.Designer.vb">
+      <DependentUpon>frmNoDues.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNoDues.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffCardRecord.Designer.vb">
+      <DependentUpon>frmStaffCardRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffCardRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentsCardRecord.Designer.vb">
+      <DependentUpon>frmStudentsCardRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentsCardRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCards.Designer.vb">
+      <DependentUpon>frmCards.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCards.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentListRecord1.Designer.vb">
+      <DependentUpon>frmStudentListRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentListRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentListRecord.Designer.vb">
+      <DependentUpon>frmStudentListRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentListRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookIssueRecord2.Designer.vb">
+      <DependentUpon>frmBookIssueRecord2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookIssueRecord2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProjectReport.Designer.vb">
+      <DependentUpon>frmProjectReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProjectReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentList.Designer.vb">
+      <DependentUpon>frmStudentList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentsReport.Designer.vb">
+      <DependentUpon>frmStudentsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookIssueRecord1.Designer.vb">
+      <DependentUpon>frmBookIssueRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookIssueRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookIssueRecord.Designer.vb">
+      <DependentUpon>frmBookIssueRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookIssueRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentRecord3.Designer.vb">
+      <DependentUpon>frmStudentRecord3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentRecord3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffRecord2.Designer.vb">
+      <DependentUpon>frmStaffRecord2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffRecord2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProjectRecord1.Designer.vb">
+      <DependentUpon>frmProjectRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProjectRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProjectRecord.Designer.vb">
+      <DependentUpon>frmProjectRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProjectRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentRecord2.Designer.vb">
+      <DependentUpon>frmStudentRecord2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentRecord2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewsPaperRecord1.Designer.vb">
+      <DependentUpon>frmNewsPaperRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewsPaperRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewsPaperRecord.Designer.vb">
+      <DependentUpon>frmNewsPaperRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewsPaperRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffRecord1.Designer.vb">
+      <DependentUpon>frmStaffRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentRecord1.Designer.vb">
+      <DependentUpon>frmStudentRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJournalsMagzinesRecord.Designer.vb">
+      <DependentUpon>frmJournalsMagzinesRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJournalsMagzinesRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplierRecord.Designer.vb">
+      <DependentUpon>frmSupplierRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplierRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYears.Designer.vb">
+      <DependentUpon>frmYears.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmYears.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookEntry.Designer.vb">
+      <DependentUpon>frmBookEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookIssue.Designer.vb">
+      <DependentUpon>frmBookIssue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookIssue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookRecord.Designer.vb">
+      <DependentUpon>frmBookRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookRecord1.Designer.vb">
+      <DependentUpon>frmBookRecord1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookRecord1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookReturn.Designer.vb">
+      <DependentUpon>frmBookReturn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookReturn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBooksSearch.Designer.vb">
+      <DependentUpon>frmBooksSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBooksSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment.Designer.vb">
+      <DependentUpon>frmDepartment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCourse.Designer.vb">
+      <DependentUpon>frmCourse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCourse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJournalsAndMagzines.Designer.vb">
+      <DependentUpon>frmJournalsAndMagzines.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmJournalsAndMagzines.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginDetails.Designer.vb">
+      <DependentUpon>frmLoginDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewsPaper.Designer.vb">
+      <DependentUpon>frmNewsPaper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewsPaper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPasswordRecovery.Designer.vb">
+      <DependentUpon>frmPasswordRecovery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPasswordRecovery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProject.Designer.vb">
+      <DependentUpon>frmProject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistration.Designer.vb">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaff.Designer.vb">
+      <DependentUpon>frmStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudent.Designer.vb">
+      <DependentUpon>frmStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.Designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffRecord.Designer.vb">
+      <DependentUpon>frmStaffRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentRecord.Designer.vb">
+      <DependentUpon>frmStudentRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuppliers.Designer.vb">
+      <DependentUpon>frmSuppliers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSuppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSystemInfo.Designer.vb">
+      <DependentUpon>frmSystemInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSystemInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LMS_DBDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LMS_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rptProject.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptProject.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptStudentList.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptStudentList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Student_DBDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Student_DBDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BookIssueRecord_Staff.resx">
+      <DependentUpon>BookIssueRecord_Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookIssueRecord_Staff1.resx">
+      <DependentUpon>BookIssueRecord_Staff1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookIssueRecord_Staff2.resx">
+      <DependentUpon>BookIssueRecord_Staff2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookReturnRecord_Student.resx">
+      <DependentUpon>BookReturnRecord_Student.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookReturnRecord_Staff.resx">
+      <DependentUpon>BookReturnRecord_Staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookReturnRecord_Student1.resx">
+      <DependentUpon>BookReturnRecord_Student1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BookReturnRecord_Staff1.resx">
+      <DependentUpon>BookReturnRecord_Staff1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookRecord3.resx">
+      <DependentUpon>frmBookRecord3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookRecord2.resx">
+      <DependentUpon>frmBookRecord2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJournalsMagzinesRecord1.resx">
+      <DependentUpon>frmJournalsMagzinesRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffsNoDuesRecord.resx">
+      <DependentUpon>frmStaffsNoDuesRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentsNoDuesdRecord.resx">
+      <DependentUpon>frmStudentsNoDuesdRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNoDues.resx">
+      <DependentUpon>frmNoDues.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffCardRecord.resx">
+      <DependentUpon>frmStaffCardRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentsCardRecord.resx">
+      <DependentUpon>frmStudentsCardRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCards.resx">
+      <DependentUpon>frmCards.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentListRecord1.resx">
+      <DependentUpon>frmStudentListRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentListRecord.resx">
+      <DependentUpon>frmStudentListRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookIssueRecord2.resx">
+      <DependentUpon>frmBookIssueRecord2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProjectReport.resx">
+      <DependentUpon>frmProjectReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentList.resx">
+      <DependentUpon>frmStudentList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentsReport.resx">
+      <DependentUpon>frmStudentsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookIssueRecord1.resx">
+      <DependentUpon>frmBookIssueRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookIssueRecord.resx">
+      <DependentUpon>frmBookIssueRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentRecord3.resx">
+      <DependentUpon>frmStudentRecord3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffRecord2.resx">
+      <DependentUpon>frmStaffRecord2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProjectRecord1.resx">
+      <DependentUpon>frmProjectRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProjectRecord.resx">
+      <DependentUpon>frmProjectRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentRecord2.resx">
+      <DependentUpon>frmStudentRecord2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewsPaperRecord1.resx">
+      <DependentUpon>frmNewsPaperRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewsPaperRecord.resx">
+      <DependentUpon>frmNewsPaperRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffRecord1.resx">
+      <DependentUpon>frmStaffRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentRecord1.resx">
+      <DependentUpon>frmStudentRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJournalsMagzinesRecord.resx">
+      <DependentUpon>frmJournalsMagzinesRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplierRecord.resx">
+      <DependentUpon>frmSupplierRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYears.resx">
+      <DependentUpon>frmYears.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookEntry.resx">
+      <DependentUpon>frmBookEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookIssue.resx">
+      <DependentUpon>frmBookIssue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookRecord.resx">
+      <DependentUpon>frmBookRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookRecord1.resx">
+      <DependentUpon>frmBookRecord1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookReturn.resx">
+      <DependentUpon>frmBookReturn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment.resx">
+      <DependentUpon>frmDepartment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCourse.resx">
+      <DependentUpon>frmCourse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJournalsAndMagzines.resx">
+      <DependentUpon>frmJournalsAndMagzines.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginDetails.resx">
+      <DependentUpon>frmLoginDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewsPaper.resx">
+      <DependentUpon>frmNewsPaper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPasswordRecovery.resx">
+      <DependentUpon>frmPasswordRecovery.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProject.resx">
+      <DependentUpon>frmProject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistration.resx">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaff.resx">
+      <DependentUpon>frmStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudent.resx">
+      <DependentUpon>frmStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffRecord.resx">
+      <DependentUpon>frmStaffRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentRecord.resx">
+      <DependentUpon>frmStudentRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSuppliers.resx">
+      <DependentUpon>frmSuppliers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSystemInfo.resx">
+      <DependentUpon>frmSystemInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptProject.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptProject.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptStudentList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptStudentList.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LibraryManagementSystem_TemporaryKey.pfx" />
+    <None Include="LMS_DBDataSet.xsc">
+      <DependentUpon>LMS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LMS_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LMS_DBDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LMS_DBDataSet.xss">
+      <DependentUpon>LMS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Student_DBDataSet.xsc">
+      <DependentUpon>Student_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Student_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Student_DBDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Student_DBDataSet.xss">
+      <DependentUpon>Student_DBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-library-table-full-of-books-isolated-on-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-footage-all-is-written-in-the-books.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library books desks bookshelf objects antique 2560x1600 wallpaper_wallpaperbeautiful_67.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top_image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time_1920x1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notepad1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\task-manager1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MS-Word-2-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wordpad_icon_%28Windows_7%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\system-information-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registration_icon_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\url.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_home2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_home2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log Details.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registration_icon_up1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9249885206531349681.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\924988520653134968.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainfrm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0088181331020_Color_Sky-Blue_SW_60X601.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background books entry1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background books entry2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background books entry3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background books entry4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graduate-Research-background-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0088181331020_Color_Sky-Blue_SW_60X602.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Researcher-resources-background21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textures-wallpapers-simple-and-beautifull-wood-texture-backgrounds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textures-wallpapers-simple-and-beautifull-wood-texture-backgrounds1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-comment-bubbles-icon-culture-book2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-comment-bubbles-icon-culture-book21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow-comment-bubbles-icon-culture-book2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admissions-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admissions-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\56928-256x256-courses-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supplierIcon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8314929977_28fd740070_z.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8314929977_28fd740070_z1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_year_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magazinesIcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System-Security-Card-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7657869.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon %281%29.ico" />
+    <None Include="Resources\fix-screen-burns-your-nexus-6-other-amoled-device.w1456.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

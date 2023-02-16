@@ -1,0 +1,354 @@
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.xml
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Resources.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.xml
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmAbout.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSplash.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmChangePassword.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmLogin.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmMain.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSystemInfo.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudent.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookEntry.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssue.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturn.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCourse.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmLoginDetails.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmRegistration.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPasswordRecovery.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.xml
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.xml
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookEntry.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssue.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturn.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmChangePassword.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCourse.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmFaculties.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmLoginDetails.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPasswordRecovery.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPurchasedBooks.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmRegistration.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudent.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Frmlogin.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmMain.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSplash.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmAbout.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSuppliers.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSystemInfo.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Resources.resources
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Shravan\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.xml
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.xml
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookEntry.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssue.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturn.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmChangePassword.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCourse.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmFaculties.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsAndMagzines.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmLoginDetails.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaper.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPasswordRecovery.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProject.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPurchasedBooks.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmRegistration.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudent.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Frmlogin.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmMain.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSplash.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmAbout.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSuppliers.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSystemInfo.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Resources.resources
+D:\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsAndMagzines.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaper.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProject.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmDepartment.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaff.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmYears.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord2.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord2.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord3.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord2.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord3.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplier.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplierRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectReport.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff2.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord2.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentList.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsReport.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff1.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCards.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffCardRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsCardRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffsNoDuesRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsNoDuesdRecord.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNoDues.resources
+C:\Users\Raj\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.xml
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.xml
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff2.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffsNoDuesRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsNoDuesdRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNoDues.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffCardRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsCardRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCards.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord2.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectReport.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentList.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsReport.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord3.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord3.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord2.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord2.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord2.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplierRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmYears.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookEntry.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssue.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord1.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturn.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmChangePassword.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmDepartment.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCourse.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsAndMagzines.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmLoginDetails.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaper.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPasswordRecovery.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProject.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmRegistration.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaff.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudent.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Frmlogin.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmMain.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSplash.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmAbout.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplier.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSystemInfo.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Resources.resources
+D:\Projects\Project sources\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.xml
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff2.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord3.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord2.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffsNoDuesRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsNoDuesdRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNoDues.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffCardRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsCardRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCards.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord2.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectReport.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentList.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsReport.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord3.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord2.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord2.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplierRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmYears.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookEntry.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssue.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord1.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturn.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmChangePassword.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmDepartment.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCourse.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsAndMagzines.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmLoginDetails.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaper.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPasswordRecovery.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProject.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmRegistration.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaff.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudent.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Frmlogin.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmMain.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSplash.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmAbout.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplier.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSystemInfo.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Resources.resources
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.xml
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\dell\Videos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Resources\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\Resources\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+E:\Resources\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.xml
+E:\Resources\Visual Studio\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord_Staff2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Student1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturnRecord_Staff1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord3.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffsNoDuesRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsNoDuesdRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNoDues.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffCardRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsCardRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCards.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentListRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectReport.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentList.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentsReport.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssueRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord3.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProjectRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord2.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaperRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsMagzinesRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplierRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmYears.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookEntry.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookIssue.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookRecord1.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmBookReturn.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmChangePassword.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmDepartment.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmCourse.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmJournalsAndMagzines.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmLoginDetails.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmNewsPaper.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmPasswordRecovery.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmProject.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmRegistration.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaff.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudent.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Frmlogin.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmMain.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSplash.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmAbout.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStaffRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmStudentRecord.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSupplier.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.frmSystemInfo.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Resources.resources
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.vbproj.GenerateResource.Cache
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Debug\NH Library Management System.exe.config
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\NH Library Management System.xml
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Debug\NH Library Management System.exe
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Debug\NH Library Management System.pdb
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Debug\NH Library Management System.xml
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\NH Library Management System.exe
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\NH Library Management System.pdb
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Debug\NH Library Management System.exe.manifest
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\bin\Debug\NH Library Management System.application
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\NH Library Management System.TrustInfo.xml
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\NH Library Management System.exe.manifest
+E:\Resources\Visual Studio\LibraryManagementSystem -NH Group\LibraryManagementSystem\obj\x86\Debug\NH Library Management System.application
